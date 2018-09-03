@@ -1,10 +1,3 @@
----
-title: "Readme for the scripts_tabulations folder"
-author: "Yves Amevoin"
-output: 
-  html_document:
-    keep_md: TRUE
----
 
 ## Introduction
 
