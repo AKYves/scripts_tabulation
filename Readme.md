@@ -1,3 +1,10 @@
+---
+title: "Readme for the scripts_tabulations folder"
+author: "Yves Amevoin"
+output: 
+  html_document:
+    keep_md: TRUE
+---
 
 ## Introduction
 
@@ -7,6 +14,8 @@ easily with deliverables after a survey.
 
 I believe in reproductible research, so if you want to have your analysis and 
 your comments in the same report, please consider Rmarkdown.
+
+The functions are mainly based on the great package [openxlsx](https://github.com/awalker89/openxlsx).
 
 ---
 
