@@ -1,6 +1,13 @@
 
 ## Introduction
 
+For those wanting a fine and more interesting control on the output aspect,
+I am working on a package which will probably improve enough this project,
+with more themes and more options for the final output. 
+I didn't delete this project to let know about the origin ideas at the birth of
+the package. Please, you
+could take a look on [tabuldevr](//github.com/AKYves/tabuldevr.git)
+
 The purpose of this folder is to create a list of tables
 and table names and send them to an excel sheet. The goal is to come up
 easily with deliverables after a survey.
@@ -8,7 +15,7 @@ easily with deliverables after a survey.
 I believe in reproductible research, so if you want to have your analysis and 
 your comments in the same report, please consider Rmarkdown.
 
-The functions are mainly based on the great package [openxlsx](https://github.com/awalker89/openxlsx).
+The functions are mainly based on the great package [openxlsx](//github.com/awalker89/openxlsx).
 
 ---
 
@@ -70,8 +77,6 @@ push_all_tables(wb,
 saveWorkbook(wb, file = "demo.xlsx",
              overwrite = TRUE)
 ```
-
-
 
 Please feel free to add you inputs. It is just a little file for those in hurry
 
